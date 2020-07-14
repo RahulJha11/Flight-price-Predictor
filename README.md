@@ -15,7 +15,7 @@
   
   Link:- https://flight-price-predictor-app.herokuapp.com/
   
-  <img src="static/screenshot.png" width ="550" hight="320" >
+  <img src="static/screenshot1.png" width ="550" hight="320" >
   
   
   ## Dataset
@@ -44,5 +44,7 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ## Deployement on Heroku
 
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+
+<img src="static/screenshot.png" width ="550" hight="320" >
 
 
